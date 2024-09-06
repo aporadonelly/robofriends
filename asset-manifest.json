@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aporadonelly/robofriends.git/static/css/main.2a0d02f3.css",
+    "main.js": "/aporadonelly/robofriends.git/static/js/main.5d425bf8.js",
+    "index.html": "/aporadonelly/robofriends.git/index.html",
+    "main.2a0d02f3.css.map": "/aporadonelly/robofriends.git/static/css/main.2a0d02f3.css.map",
+    "main.5d425bf8.js.map": "/aporadonelly/robofriends.git/static/js/main.5d425bf8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a0d02f3.css",
+    "static/js/main.5d425bf8.js"
+  ]
+}
